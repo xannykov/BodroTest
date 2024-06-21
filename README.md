@@ -1,6 +1,22 @@
-<div align="center">
-    <h1 style="font-family: 'https://github.com/xannykov/BodroTest/blob/main/BodroTest/Resources/Floripa.ttf', sans-serif; color: #7FFF00;">BodroTest</h1>
-</div>
+<style>
+    @font-face {
+        font-family: 'Floripa';
+        src: url('https://github.com/xannykov/BodroTest/raw/main/BodroTest/Resources/Floripa.ttf') format('truetype');
+        font-weight: normal;
+        font-style: normal;
+    }
+
+    .custom-font {
+        font-family: 'Floripa', sans-serif;
+        color: #7FFF00;
+    }
+</style>
+
+  <div align="center">
+      <h1 class="custom-font">BodroTest</h1>
+  </div>
+
+
 
 ___
 ## Описание
