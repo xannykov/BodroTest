@@ -1,24 +1,9 @@
-<style>
-    @font-face {
-        font-family: 'Floripa';
-        src: url('https://github.com/xannykov/BodroTest/raw/main/BodroTest/Resources/Floripa.ttf') format('truetype');
-        font-weight: normal;
-        font-style: normal;
-    }
-
-    .custom-font {
-        font-family: 'Floripa', sans-serif;
-        color: #7FFF00;
-    }
-</style>
-
-  <div align="center">
-      <h1 class="custom-font">BodroTest</h1>
-  </div>
-
-
+<div align="center">
+  <h1 class="custom-font">BodroTest</h1>
+</div>
 
 ___
+
 ## Описание
 **BodroTest** — это тестовое приложение, предназначенное для оценки знаний пользователей. Приложение включает в себя различные типы вопросов.
 ___
