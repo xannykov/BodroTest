@@ -1,0 +1,45 @@
+E:\Проекты С++\BodroTest\BodroTest\bin\Debug\BodroTest.exe.config
+E:\Проекты С++\BodroTest\BodroTest\bin\Debug\BodroTest.exe
+E:\Проекты С++\BodroTest\BodroTest\bin\Debug\BodroTest.pdb
+E:\Проекты С++\BodroTest\BodroTest\obj\Debug\BodroTest.csproj.AssemblyReference.cache
+E:\Проекты С++\BodroTest\BodroTest\obj\Debug\BodroTest.csproj.SuggestedBindingRedirects.cache
+E:\Проекты С++\BodroTest\BodroTest\obj\Debug\BodroTest.Form1.resources
+E:\Проекты С++\BodroTest\BodroTest\obj\Debug\BodroTest.Form2.resources
+E:\Проекты С++\BodroTest\BodroTest\obj\Debug\BodroTest.Form3.resources
+E:\Проекты С++\BodroTest\BodroTest\obj\Debug\BodroTest.Properties.Resources.resources
+E:\Проекты С++\BodroTest\BodroTest\obj\Debug\BodroTest.SplashScreenForm.resources
+E:\Проекты С++\BodroTest\BodroTest\obj\Debug\BodroTest.csproj.GenerateResource.cache
+E:\Проекты С++\BodroTest\BodroTest\obj\Debug\BodroTest.csproj.CoreCompileInputs.cache
+E:\Проекты С++\BodroTest\BodroTest\obj\Debug\BodroTest.exe
+E:\Проекты С++\BodroTest\BodroTest\obj\Debug\BodroTest.pdb
+E:\Проекты С++\BodroTest\BodroTest\obj\Debug\BodroTest.TestCompletedForm.resources
+E:\Проекты C\BodroTest\BodroTest\bin\Debug\BodroTest.exe.config
+E:\Проекты C\BodroTest\BodroTest\bin\Debug\BodroTest.exe
+E:\Проекты C\BodroTest\BodroTest\bin\Debug\BodroTest.pdb
+E:\Проекты C\BodroTest\BodroTest\obj\Debug\BodroTest.csproj.AssemblyReference.cache
+E:\Проекты C\BodroTest\BodroTest\obj\Debug\BodroTest.csproj.SuggestedBindingRedirects.cache
+E:\Проекты C\BodroTest\BodroTest\obj\Debug\BodroTest.Form1.resources
+E:\Проекты C\BodroTest\BodroTest\obj\Debug\BodroTest.Form2.resources
+E:\Проекты C\BodroTest\BodroTest\obj\Debug\BodroTest.Form3.resources
+E:\Проекты C\BodroTest\BodroTest\obj\Debug\BodroTest.Properties.Resources.resources
+E:\Проекты C\BodroTest\BodroTest\obj\Debug\BodroTest.SplashScreenForm.resources
+E:\Проекты C\BodroTest\BodroTest\obj\Debug\BodroTest.TestCompletedForm.resources
+E:\Проекты C\BodroTest\BodroTest\obj\Debug\BodroTest.csproj.GenerateResource.cache
+E:\Проекты C\BodroTest\BodroTest\obj\Debug\BodroTest.csproj.CoreCompileInputs.cache
+E:\Проекты C\BodroTest\BodroTest\obj\Debug\BodroTest.exe
+E:\Проекты C\BodroTest\BodroTest\obj\Debug\BodroTest.pdb
+E:\BodroTest\BodroTest\bin\Debug\BodroTest.exe.config
+E:\BodroTest\BodroTest\bin\Debug\BodroTest.exe
+E:\BodroTest\BodroTest\bin\Debug\BodroTest.pdb
+E:\BodroTest\BodroTest\obj\Debug\BodroTest.csproj.AssemblyReference.cache
+E:\BodroTest\BodroTest\obj\Debug\BodroTest.csproj.SuggestedBindingRedirects.cache
+E:\BodroTest\BodroTest\obj\Debug\BodroTest.Form1.resources
+E:\BodroTest\BodroTest\obj\Debug\BodroTest.Form2.resources
+E:\BodroTest\BodroTest\obj\Debug\BodroTest.Form3.resources
+E:\BodroTest\BodroTest\obj\Debug\BodroTest.Properties.Resources.resources
+E:\BodroTest\BodroTest\obj\Debug\BodroTest.SplashScreenForm.resources
+E:\BodroTest\BodroTest\obj\Debug\BodroTest.TestCompletedForm.resources
+E:\BodroTest\BodroTest\obj\Debug\BodroTest.csproj.GenerateResource.cache
+E:\BodroTest\BodroTest\obj\Debug\BodroTest.csproj.CoreCompileInputs.cache
+E:\BodroTest\BodroTest\obj\Debug\BodroTest.exe
+E:\BodroTest\BodroTest\obj\Debug\BodroTest.pdb
