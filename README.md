@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 class="custom-font">BodroTest</h1>
+  <h1>BodroTest</h1>
 </div>
 
 ___
